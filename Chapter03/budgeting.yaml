@@ -12,7 +12,7 @@ paths:
       description: Get the list of budget line items
       responses:
         '200':
-          description: Succussful Operation
+          description: Successful Operation
           content:
             application/json:
               schema:
@@ -27,7 +27,7 @@ paths:
               $ref: '#/components/schemas/item'
       responses:
         '200':
-          description: Succussful Operation
+          description: Successful Operation
           content:
             application/json:
               schema:
@@ -44,7 +44,7 @@ paths:
           required: true
       responses:
         '200':
-          description: Succussful Operation
+          description: Successful Operation
           content:
             application/json:
               schema:
@@ -80,7 +80,7 @@ paths:
                   category: rent
       responses:
         '200':
-          description: Succussful Operation
+          description: Successful Operation
           content:
             application/json:
               schema:
@@ -96,7 +96,7 @@ paths:
           required: true
       responses:
         '200':
-          description: Succussful Operation
+          description: Successful Operation
           content:
             application/json:
               schema:
