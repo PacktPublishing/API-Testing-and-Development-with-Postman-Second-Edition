@@ -62,50 +62,50 @@ On the surface, this book is primarily about the API testing tool Postman, but I
 
 
 ### Chapter 01, API Terminology and Types
-
+Chapter 1, API Terminology and Types, gets you started with some of the basic API terminology and introduces you to the different types of APIs.
 
 
 ### Chapter 02, API Documentation and Design
-
-
+Chapter 2, API Documentation and Design, covers the design principles that apply to creating and testing APIs, and both how and why to create useful documentation.
 
 ### Chapter 03, OpenAPI and API Specifications
-
+Chapter 3, Open API and API Specifications, explains what API specifications are and how to get started with using them in Postman.
 
 ### Chapter 04, Considerations for Good API Test Automation
-
+Chapter 4, Considerations for Good API Test Automation, teaches you how to create and execute valuable and long-lasting API tests in Postman.
 
 ### Chapter 05, Understanding Authorization Options
-
+Chapter 5, Understanding Authorization Options, walks through how to use many of the API authorization methods available in Postman.
 
 ### Chapter 06, Creating Test Validation Scripts
-
+Chapter 6, Creating Test Validation Scripts, explains how to create and use test scripts in Postman.
 
 ### Chapter 07, Data-Driven Testing
-
+Chapter 7, Data-Driven Testing, discusses what data-driven testing is and how to use it to create scalable tests in Postman.
 
 ### Chapter 08, Workflow Testing
-
+Chapter 8, Workflow Testing, explains what workflow tests are and how to create flows in Postman.
 
 ### Chapter 09, Running API Tests in CI with Newman
-
+Chapter 9, Running API Tests in CI with Newman, shows how to run Postman API tests at the command line with the Newman runner.
 
 ### Chapter 10, Monitoring APIs with Postman
-
-
+Chapter 10, Monitoring APIs with Postman, explains how to monitor product usage of APIs with Postman monitoring.
 
 ### Chapter 11, Testing an Existing API
-
+Chapter 11, Testing an Existing API, works through a hands-on example that shows what kind of tests to create when testing an existing API.
 
 ### Chapter 12, Creating and Using Mock Servers in Postman
+Chapter 12, Creating and Using Mock Servers in Postman, explains what mock servers are and how to set up and use them in Postman.
 
 ### Chapter 13, Using Contract Testing to Verify an API
-
+Chapter 13, Using Contract Testing to Verify an API, discusses what contract testing is and shows how to create and use contract testing in Postman.
 
 ### Chapter 14, API Security Testing
-
+Chapter 14, API Security Testing, gives a brief introduction to security testing and gives an example of setting up fuzz testing in Postman.
 
 ### Chapter 15, Performance Testing an API
+Chapter 15, Performance Testing an API, explains the different types of performance testing and walks through some of the features in Postman that can be used to assess API performance.
 
 
 
