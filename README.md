@@ -25,13 +25,10 @@ By the end of this book, you'll be able to use Postman to set up and run API tes
 - Understand the basic principles of security testing
 - Get to grips with functional and non-functional testing of an API
 - Discover how to use industry standards such as OpenAPI and mocking
-
-
-## New Edition v/s Previous Edition
  
 
-
 ## What's New
+This Second Edition of _API Testing and Development with Postman_ is fully-updated throughout, including modernized coverage on authorization options and API monitoring with Postman. The book also includes four brand-new chapters: Workflow Testing, Creating and using a Mock Server in Postman, API Security Testing, and Performance Testing an API.
 
 
 
